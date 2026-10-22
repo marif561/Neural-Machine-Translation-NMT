@@ -7,7 +7,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--19496--2__3-blue)](https://doi.org/10.1007/978-3-031-19496-2_3)
 [![Python](https://img.shields.io/badge/python-3.9%2B-3776AB)](#installation)
 [![License: MIT](https://img.shields.io/badge/code-MIT-green)](LICENSE)
-[![tests](https://github.com/marif561/Neural-Machine-Translation-NMT-/actions/workflows/tests.yml/badge.svg)](https://github.com/marif561/Neural-Machine-Translation-NMT-/actions/workflows/tests.yml)
+[![tests](https://github.com/marif561/Neural-Machine-Translation-NMT/actions/workflows/tests.yml/badge.svg)](https://github.com/marif561/Neural-Machine-Translation-NMT/actions/workflows/tests.yml)
 
 Project page for **"Improving Neural Machine Translation for Low Resource Languages Using Mixed Training: The Case of Ethiopian Languages"**, MICAI 2022, *Advances in Computational Intelligence*, Lecture Notes in Computer Science vol. 13613, pp. 30–40, Springer.
 
@@ -74,8 +74,8 @@ A compact, tested **Transformer NMT pipeline** for running mixed-training experi
 ## Installation
 
 ```bash
-git clone https://github.com/marif561/Neural-Machine-Translation-NMT-.git
-cd Neural-Machine-Translation-NMT-
+git clone https://github.com/marif561/Neural-Machine-Translation-NMT.git
+cd Neural-Machine-Translation-NMT
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 pip install -e .
